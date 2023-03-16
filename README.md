@@ -1,6 +1,3 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+Title: Simple URL Shortener
 
-## References
-
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+Description: This mini project is a command-line interface (CLI) application that allows users to shorten URLs and retrieve the original URLs using a short code.
